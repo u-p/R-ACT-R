@@ -1,7 +1,7 @@
 # R-ACT-R
 Updated repository of the R-ACT-R model
 
-This repository is supposed to contains the lattest version of the R-ACT-R system
+This repository contains the lattest version of the R-ACT-R system
 
 
 # 01.11.2021:
