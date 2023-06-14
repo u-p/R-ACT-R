@@ -1,7 +1,7 @@
 # R-ACT-R
-This repository contains an R implementation of ACT-R for the purpose of writing various cue-based retrieval models
+This repository contains an R implementation of ACT-R for the purpose of writing various cue-based retrieval (CBR) models
 
-This repository has the lattest version of the R-ACT-R system
+It has the lattest version of the core R-ACT-R system (without any specific CBR models)
 
 ## Log of changes
 ### 01.11.2021:
