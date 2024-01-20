@@ -8,4 +8,4 @@ It has the lattest version of the R-ACT-R system (without any specific CBR model
 
 . some changes were made to the 'functions.R' file, mainly about printing the output in sensible ways
 
-. no "functional" changes though which means all earlier models should generate the same predictions
+. no functional changes though which means all earlier models should generate the same predictions
